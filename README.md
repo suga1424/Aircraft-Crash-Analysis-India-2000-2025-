@@ -1,4 +1,5 @@
-Preview 
+**Preview**
+
 ![image alt](https://github.com/suga1424/Aircraft-Crash-Analysis-India-2000-2025-/blob/main/Page-1.png?raw=true)
 
 🚨 Aircraft Crash Case study (India, 2000–2025)
